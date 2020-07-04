@@ -6,7 +6,7 @@ This is a small Django application with Member and ActivityPeriod models, it con
 # Install Required Packages
 The project was built and tested with Django 3.x version.The Django project need some Python package to install
 ```
-pip install Django==3.0.8
+pip install Django
 pip install djangorestframework
 pip install django-faker
 ```
@@ -28,4 +28,5 @@ This command create 3 member in one go
 
 # Serve that data in the json
 To server the data in the json formate, go to the local URL http://localhost:8000/
+
 live server link http://djapppro.pythonanywhere.com/api
