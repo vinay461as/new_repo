@@ -17,6 +17,10 @@ Before running the application we need to create the needed DB tables:
 python manage.py makemigrations
 python manage.py migrate
  ```
+Now run the server
+```
+python manage.py runserver
+```
 To access the applications, go to the URL http://localhost:8000/
 
 # Populate the database with some dummy data
