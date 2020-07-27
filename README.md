@@ -31,6 +31,6 @@ python manage.py createmember
 This command create 3 member in one go
 
 # Serve that data in the json
-To server the data in the json formate, go to the local URL http://localhost:8000/
+To server the data in the json formate, go to the local URL http://localhost:8000/api/member
 
 live server link http://djapppro.pythonanywhere.com/api
