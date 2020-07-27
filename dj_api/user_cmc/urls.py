@@ -3,6 +3,6 @@ from  .views import MemberView
 
 urlpatterns= [
 
-    path("api/", MemberView.as_view()),
+    path("api", MemberView.as_view()),
 
 ]
